@@ -1,2 +1,3 @@
-# cis412assignment1
-HTML/CSS of weather app design 
+# CIS4210: Assignment 1: First Design Cycle
+
+HTML/CSS of weather app design.
